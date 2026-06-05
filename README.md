@@ -1,3 +1,36 @@
+# 🚀 AWS Roadmap
+
+> [!Note]
+>
+> Step by step guide to learning AWS - AWS has lots of services but you don't need to master all of them. 
+> This Repository only covers an opinionated list of services to help you get started.
+>
+> Step 1 
+> - IAM - Access Control 
+> - VPC - Network Layer
+> - Ec2 - Compute
+>
+> Step 2 
+> - S3 - Storage
+> - SES - Emails
+> - Route53 - DNS
+> - CloudWatch - Monitoring
+> - Cloudfront - CDN
+>
+> Step 3
+> - RDS - Managed Database
+> - DynomoDB - NoSQL Storage
+> - ElastiCache- Redis/Memcached
+> - ECS - Containers 
+> - EKS - Kubernetes
+>
+> Step 4
+> - Lambda
+> - ECS Fargate
+
+
+
+
 # AWS VPC and Networking in Depth 
 
 ## AWS Networking 
