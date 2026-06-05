@@ -5,26 +5,26 @@
 > Step by step guide to learning AWS - AWS has lots of services but you don't need to master all of them. 
 > This Repository only covers an opinionated list of services to help you get started.
 >
-> Step 1 
+> Step 1️⃣ 
 > - IAM - Access Control 
 > - VPC - Network Layer
 > - Ec2 - Compute
 >
-> Step 2 
+> Step 2️⃣
 > - S3 - Storage
 > - SES - Emails
 > - Route53 - DNS
 > - CloudWatch - Monitoring
 > - Cloudfront - CDN
 >
-> Step 3
+> Step 3️⃣
 > - RDS - Managed Database
 > - DynomoDB - NoSQL Storage
 > - ElastiCache- Redis/Memcached
 > - ECS - Containers 
 > - EKS - Kubernetes
 >
-> Step 4
+> Step 4️⃣
 > - Lambda
 > - ECS Fargate
 
