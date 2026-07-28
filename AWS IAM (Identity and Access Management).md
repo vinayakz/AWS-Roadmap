@@ -8,6 +8,8 @@ However, using the root account for daily work is **not recommended** because it
 
 AWS provides **IAM (Identity and Access Management)** to securely manage users, permissions, and access to AWS resources.
 
+The purpose of AWS Identity and Access Management (IAM) is to securely manage authentication and authorization in the cloud, controlling who is signed in and what actions they can perform on AWS resources.
+
 ---
 
 # What is AWS IAM?
